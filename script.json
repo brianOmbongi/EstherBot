@@ -1,5 +1,6 @@
 {
-    "BOT": "Hello!\nI’m the personal bot of Brian, a graduate of Telecommunication and Information Engineering.\n![esther](https://raw.githubusercontent.com/brianOmbongi/EstherBot/ee5bf5c7e928ac3e4e39dfa040b1d5d7447dbc84/img/IMG-20150916-WA0016.jpg)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
+    "BOT": "Hello!\nI’m the personal assistant of Brian, a graduate of Telecommunication and Information Engineering.\n![brian](https://raw.githubusercontent.com/brianOmbongi/EstherBot/ee5bf5c7e928ac3e4e39dfa040b1d5d7447dbc84/img/IMG-20150916-WA0016.jpg)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
+    "Learn about Esther": "he is testing this awesome project",
     "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
