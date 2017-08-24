@@ -1,7 +1,7 @@
 {
     "BOT": "Hello!\nI’m the personal assistant of Brian Ombongi, a graduate of Telecommunication and Information Engineering.\n![brian](https://raw.githubusercontent.com/brianOmbongi/EstherBot/ee5bf5c7e928ac3e4e39dfa040b1d5d7447dbc84/img/IMG-20150916-WA0016.jpg)\nWant to learn about brian or Connect to him? %[Learn About Brian](postback:learn_about_brian) %[Contact Brian](postback:contact_brian) %[BrianFacts!](postback:random_fact)",
-    "LEARN ABOUT BRIAN": "Okay! Let's go\nWhat do you want to Know? %[Education](postback:education) %[Work experience](work_experience)",
-    "EDUCATION":"Brian has a degree in Telecommunications and Information engineering from Multimedia University of Kenya",
+    "LEARN ABOUT BRIAN": "Okay! Let's go\nWhat do you want to Know? %[Education](postback:education) %[Work experience](postback:work_experience)",
+    "EDUCATION":"Brian has a degree in Telecommunications and Information Engineering from Multimedia University of Kenya\n He attended The Kanga High School for his secondary education and attained grade A-(80pts)\n You can also check out his certifications and Primary school education. %[Certifications](postback:Certifications) %[Primary School](postback:primary_school) \n You can say 'Go Back' if you don't want to see this",
     "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
