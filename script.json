@@ -10,7 +10,7 @@
     "HAH!NEXT!!":"He loves winning and leading, his strong ability to motivate teams sets him apart. He can work with the worst but produce the best.\n 'Give me brian and 10 pieces of wood and i will win you the Champions League'- said one individual 😀.\n Want more facts? %[Yes Pleeease😙](postback:yes_please)",
     "YES PLEEEASE😙":"Brian has another AI based conversational Bot that you can hold endless small talk with. It gives a more personal feel of who brian is.\n Want the link to that bot?%[Ofcourse, send it](postback:send_it)",
     "OFCOURSE, SEND IT":"Am a jealous assistant☹️, You have to ask Brian directly for that👀%[Fiine🙄 What else?](postback:what_else)",
-    "FIINE🙄 WHAT ELSE":"Want a bot for your business?have a job opportunity?Cyber Security?Telecommunications? \n Please hit up Brian 👊%[Contact Brian](postback:contact_brian)",
+    "FIINE🙄 WHAT ELSE?":"Want a bot for your business?have a job opportunity?Cyber Security?Telecommunications? \n Please hit up Brian 👊%[Contact Brian](postback:contact_brian)",
     "":"%[](postback:)",
     "CONTACT BRIAN": "He is friendly ☺️ Talk to him on \n %[Phone Number](postback:phone_number) %[Email](postback:email) %[Twitter](postback:twitter)",
     "CAREER":"Brian has a passion for creating, and that explains how i, BrianBot was born 😀\n He also has deep interest in Cyber Security, a field he wants to pursue a masters degree in\n 5G?White Spaces?Wireless communication?He cant stop talking about them 😊 \n Have a job opportunity?Internship? Dont be shy! contact brian\n 👇%[Contact Brian](postback:contact_brian)",
