@@ -12,7 +12,8 @@
     "OFCOURSE, SEND IT":"Am a jealous assistant☹️, You have to ask Brian directly for that👀%[Fiine🙄 What else?](postback:what_else)",
     "FIINE🙄 WHAT ELSE?":"Want a bot for your business?have a job opportunity?Cyber Security?Telecommunications? \n Please hit up Brian 👊%[Contact Brian](postback:contact_brian)",
     "":"%[](postback:)",
-    "CONTACT BRIAN": "He is friendly ☺️ Talk to him on \n %[Phone Number](postback:phone_number) %[Email](postback:email) %[Twitter](postback:twitter)",
+    "CONTACT BRIAN": "He is friendly ☺️ Talk to him on \n %[Phone Number](postback:phone_number) %[Email](postback:email) %[Twitter](https://twitter.com/b_ombongi)",
+
     "CAREER":"Brian has a passion for creating, and that explains how i, BrianBot was born 😀\n He also has deep interest in Cyber Security, a field he wants to pursue a masters degree in\n 5G?White Spaces?Wireless communication?He cant stop talking about them 😊 \n Have a job opportunity?Internship? Dont be shy! contact brian\n 👇%[Contact Brian](postback:contact_brian)",
     "WORK EXPERIENCE": "Brian has one year experience,courtesy of three industrial attachments at three different Engineering companies\n He is also packed with four months of experience as a sales assistant %[Telecom Experience](postback:telecom_experience) %[Sales Assistant](postback:sales_assistant)",
     "TELECOM EXPERIENCE": "Three Months at WEMPS TELECOMS, from June - September 2016 \n He Installed and tested Microwave link installations ,provided coordinated support to both clients and site engineers and Performed technical surveys for proposed new installations.\n He was also at... %[Unitel](postback:unitel) %[IET](postback:iet)",
@@ -25,7 +26,7 @@
     "GO BACK": "%[Learn About Brian](postback:learn_about_brian)",
     "HELLO": "Hey, I'm so glad you set BrianBot up! Do you want to tell Brian that you're talking to his bot? %[Tell Him](postback:twitter)",
 
-    "TELL HIM": "%[Twitter](http://bit.ly/estherbot-tweet)",
+    "TELL HIM": "%[Twitter](https://twitter.com/b_ombongi)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
