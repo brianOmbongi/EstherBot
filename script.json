@@ -1,6 +1,17 @@
 {      
-    "BOT": "Hello!\nI’m the personal assistant of Brian Ombongi, a graduate of Telecommunication and Information Engineering.\n![brian](https://raw.githubusercontent.com/brianOmbongi/EstherBot/ee5bf5c7e928ac3e4e39dfa040b1d5d7447dbc84/img/IMG-20150916-WA0016.jpg)\nWant to learn about brian or Connect to him? %[Learn About Brian](postback:learn_about_brian) %[Contact Brian](postback:contact_brian) %[BrianFacts!](postback:random_fact)",
-    "LEARN ABOUT BRIAN": "Okay! Sweet.. I can tell you a bunch of things, what interests you? %[Education](postback:education)  %[Career](postback:career) %[Work experience](postback:work_experience)",
+    "BOT": "Hello!\nI’m the personal assistant of Brian Ombongi, a graduate of Telecommunication and Information Engineering.\n![brian](https://raw.githubusercontent.com/brianOmbongi/EstherBot/ee5bf5c7e928ac3e4e39dfa040b1d5d7447dbc84/img/IMG-20150916-WA0016.jpg)\nWant to learn about brian or Connect to him? %[Learn About Brian](postback:learn_about_brian) %[Contact Brian](postback:contact_brian) ",
+    
+    "LEARN ABOUT BRIAN": "Okay! Sweet.. I can tell you a bunch of things, what interests you? %[Education](postback:education)  %[Career](postback:career) %[Work experience](postback:work_experience) %[BrianFacts!](postback:random_fact)",
+
+    "BRIANFACTS!":"Alright! Lets go! Remember there is nothing serious here, just random fun facts about my boss, Brian 🤗 \n..and don't forget, you can always say 'Go Back' to exit to the main menu. Cool? \n %[Ok! start already🙄](postback:start)",
+    "OK,START ALREADY🙄":"Brian was never good at math in highschool, infact at some point he used to score 18%. In a story of unrelenting sacrifice, he is now an Engineer!%[Kudos!..next?](postback:next)",
+    "KUDOS!..NEXT":"He is a life-coach, and together with his mentor and few others, started a mentorship club in MMU-Kenya, that has amazing success stories %[Tell me another](postback:another)",
+    "TELL ME ANOTHER":"He is naturally funny,and has presence around him. If you havent met him physically, your life is still not complete%[hah!NEXT!!](postback:hah_next)",
+    "HAH!NEXT!!":"He loves winning and leading, his strong ability to motivate teams sets him apart. He can work with the worst but produce the best.\n 'Give me brian and 10 pieces of wood and i will win you the Champions League'- said one individual 😀.\n Want more facts? %[Yes Pleeease😙](postback:yes_please)",
+    "YES PLEEEASE😙":"Brian has another AI based conversational Bot that you can hold endless small talk with. It gives a more personal feel of who brian is.\n Want the link to that bot?%[Ofcourse, send it](postback:send_it)",
+    "OFCOURSE, SEND IT":"Am a jealous assistant☹️, You have to ask Brian directly for that👀%[Fiine🙄 What else?](postback:what_else)",
+    "FIINE🙄 WHAT ELSE":"Want a bot for your business?have a job opportunity?Cyber Security?Telecommunications? \n Please hit up Brian 👊%[Contact Brian](postback:contact_brian)",
+    "":"%[](postback:)",
     "CONTACT BRIAN": "He is friendly ☺️ Talk to him on \n %[Phone Number](postback:phone_number) %[Email](postback:email) %[Twitter](postback:twitter)",
     "CAREER":"Brian has a passion for creating, and that explains how i, BrianBot was born 😀\n He also has deep interest in Cyber Security, a field he wants to pursue a masters degree in\n 5G?White Spaces?Wireless communication?He cant stop talking about them 😊 \n Have a job opportunity?Internship? Dont be shy! contact brian\n 👇%[Contact Brian](postback:contact_brian)",
     "WORK EXPERIENCE": "Brian has one year experience,courtesy of three industrial attachments at three different Engineering companies\n He is also packed with four months of experience as a sales assistant %[Telecom Experience](postback:telecom_experience) %[Sales Assistant](postback:sales_assistant)",
