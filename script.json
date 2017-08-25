@@ -4,8 +4,8 @@
     "LEARN ABOUT BRIAN": "Okay! Sweet.. I can tell you a bunch of things, what interests you? %[Education](postback:education)  %[Career](postback:career) %[Work experience](postback:work_experience) %[BrianFacts!](postback:random_fact)",
 
     "BRIANFACTS!":"Alright! Lets go! Remember there is nothing serious here, just random fun facts about my boss, Brian 🤗 \n..and don't forget, you can always say 'Go Back' to exit to the main menu. Cool? \n %[Ok! start already🙄](postback:start)",
-    "OK! START ALREADY🙄":"Brian was never good at math in highschool, infact at some point he used to score 18%. In a story of unrelenting sacrifice, he is now an Engineer!%[Kudos!..next?](postback:next)",
-    "KUDOS!..NEXT":"He is a life-coach, and together with his mentor and few others, started a mentorship club in MMU-Kenya, that has amazing success stories %[Tell me another](postback:another)",
+    "OK! START ALREADY🙄":"Brian was never good at math in highschool, infact at some point he used to score 18%. In a story of unrelenting sacrifice, he is now an Engineer!%[WOW!..next?](postback:next)",
+    "WOW!..NEXT?":"He is a life-coach, and together with his mentor and few others, started a mentorship club in MMU-Kenya, that has amazing success stories %[Tell me another](postback:another)",
     "TELL ME ANOTHER":"He is naturally funny,and has presence around him. If you havent met him physically, your life is still not complete%[hah!NEXT!!](postback:hah_next)",
     "HAH!NEXT!!":"He loves winning and leading, his strong ability to motivate teams sets him apart. He can work with the worst but produce the best.\n 'Give me brian and 10 pieces of wood and i will win you the Champions League'- said one individual 😀.\n Want more facts? %[Yes Pleeease😙](postback:yes_please)",
     "YES PLEEEASE😙":"Brian has another AI based conversational Bot that you can hold endless small talk with. It gives a more personal feel of who brian is.\n Want the link to that bot?%[Ofcourse, send it](postback:send_it)",
