@@ -3,29 +3,51 @@
     
     "LEARN ABOUT BRIAN": "Okay! Sweet.. I can tell you a bunch of things, what interests you? %[Brian Profile](postback:brian_profile) %[BrianFacts!](postback:brianfacts!)",
 
-    "BRIAN PROFILE":"Here is what i can tell you in this section.%[Education](postback:education)  %[Career](postback:career) %[Work experience](postback:work_experience)",
+    "BRIAN PROFILE":"Here is what i can tell you in this section.%[Education](postback:education)  %[Work experience](postback:work_experience) %[Skills](postback:skills)",
 
 
     "BRIANFACTS!":"Alright! Lets go! Remember there is nothing serious here, just random fun facts about my boss, Brian 🤗 \n..and don't forget, you can always say 'Go Back' to exit to the main menu. Cool? \n %[Ok! start already🙄](postback:start)",
+
     "OK! START ALREADY🙄":"Brian was never good at math in highschool, infact at some point he used to score 18%. In a story of unrelenting sacrifice, he is now an Engineer!%[WOW!..next?](postback:next)",
+
     "WOW!..NEXT?":"He is a life-coach, and together with his mentor and few others, started a mentorship club in MMU-Kenya, that has amazing success stories %[Tell me another](postback:another)",
+
     "TELL ME ANOTHER":"He is naturally funny,and has presence around him. If you havent met him physically, your life is still not complete%[hah!NEXT!!](postback:hah_next)",
+
     "HAH!NEXT!!":"He loves winning and leading, his strong ability to motivate teams sets him apart. He can work with the worst but produce the best.\n 'Give me brian and 10 pieces of wood and i will win you the Champions League'- said one individual 😀.\n Want more facts? %[Yes Pleeease😙](postback:yes_please)",
+
     "YES PLEEEASE😙":"Brian has another AI based conversational Bot that you can hold endless small talk with. It gives a more personal feel of who brian is.\n Want the link to that bot?%[Ofcourse, send it](postback:send_it)",
     "OFCOURSE, SEND IT":"Am a jealous assistant☹️, You have to ask Brian directly for that👀%[Fiine🙄 What else?](postback:what_else)",
-    "FIINE🙄 WHAT ELSE?":"Want a bot for your business?have a job opportunity?Cyber Security?Telecommunications? \n Please hit up Brian 👊%[Contact Brian](postback:contact_brian)",
-    "":"%[](postback:)",
-    "CONTACT BRIAN": "He is friendly ☺️ Talk to him on \n %[Phone Number](postback:phone_number) %[Email](postback:email) %[Twitter](https://twitter.com/b_ombongi)",
 
-    "CAREER":"Brian has a passion for creating, and that explains how i, BrianBot was born 😀\n He also has deep interest in Cyber Security, a field he wants to pursue a masters degree in\n 5G?White Spaces?Wireless communication?He cant stop talking about them 😊 \n Have a job opportunity?Internship? Dont be shy! contact brian\n 👇%[Contact Brian](postback:contact_brian)",
-    "WORK EXPERIENCE": "Brian has one year experience,courtesy of three industrial attachments at three different Engineering companies\n He is also packed with four months of experience as a sales assistant %[Telecom Experience](postback:telecom_experience) %[Sales Assistant](postback:sales_assistant)",
-    "TELECOM EXPERIENCE": "Three Months at WEMPS TELECOMS, from June - September 2016 \n He Installed and tested Microwave link installations ,provided coordinated support to both clients and site engineers and Performed technical surveys for proposed new installations.\n He was also at... %[Unitel](postback:unitel) %[IET](postback:iet)",
-    "UNITEL": "Where he Carried out telecommunication link installations,client-end tech support, carried out preventive maintenance, network link audits, site surveys, link commissioning and decommissioning. \n Acheived status of field engineer within a week of orientation, beating a two week deadline set by the company \n %[IET](postback:iet)",
-    "IET": "Participated in a 9-person project team to assemble a 1250KVAR power factor corrector panel for James Finlay (Kenya) where he practiced his skills in electrical engineering. \n was part of a 5-person project team in assembling a 600mm by 600mm Motor Control Centre to be used as an accessory panel for Pembe Flour Millers. \n Earned the title 'accuracy' for his keen eye for detail",
+    "FIINE🙄 WHAT ELSE?":"Want a bot for your business?have a job opportunity?Cyber Security?Telecommunications? \n Please hit up Brian 👊%[Contact Brian](postback:contact_brian)",
+
+    "":"%[](postback:)",
+
+    "CONTACT BRIAN": "He is friendly ☺️ Talk to him on \n %[Phone Number](+254726143344) %[Email](briannobare@live.com) %[Twitter](https://twitter.com/b_ombongi)",
+
+    "SKILLS":"Brian has a passion for creating, and that explains how i, BrianBot was born 😀\n He is skilled in Python programming and a beginner in Java, with a keen interest in AI\n \n He also has deep interest in Cyber Security, and is familiar with several InfoSec tools and techniques of preventing Cyber attacks\n He is also well versed with both Unix and Windows operating systems \n And he is well versed in all matters Telecommunication systems installations and network links troubleshooting. \n Have a job opportunity?Internship? Dont be shy! Contact brian 👇\n %[Contact Brian](postback:contact_brian)",
+
+    "WORK EXPERIENCE": "Brian has worked in three different companies as an attache: Wemps Telecoms and Unitel services which were both Telcommunication companies as well as IET, an Energy solutions company.\n Out of the box, Brian also comes with some sales experience. %[Telecom Experience](postback:telecom_experience) %[Sales](postback:sales) \n or You can go back and learn about something else: %[Learn About Brian](postback:learn_about_brian)",
+
+    "TELECOM EXPERIENCE": "Was at Wemps Telecoms, from June - September 2016 \n He Installed and tested Microwave link installations ,provided coordinated support to both clients and site engineers and Performed technical surveys for proposed new installations.\nHe was also at... %[Unitel](postback:unitel) %[IET](postback:iet)",
+
+    "UNITEL": "At Unitel from June - Septmber of 2016\n Where he Carried out telecommunication link installations,client-end tech support, carried out preventive maintenance, network link audits, site surveys, link commissioning and decommissioning. \n Acheived status of field engineer within a week of orientation, beating a two week deadline set by the company \n %[IET](postback:iet) or You can go back %[Learn About Brian](postback:learn_about_brian)",
+
+    "IET": "Was part of a 9-person team to assemble a 1250KVAR power factor corrector panel for James Finlay (Kenya) where he practiced his skills in electrical engineering. \n Was also part of a 5-person team to assemble and design a 600mm by 600mm Motor Control Centre to be used as an accessory panel for Pembe Flour Millers. \n Earned the title 'accuracy' for his keen eye for detail \n %[Contact Brian](postback:contact_brian)",
+
     "EDUCATION":"Brian has a degree in Telecommunications and Information Engineering from Multimedia University of Kenya\n He attended The Kanga High School for his secondary education and attained grade A-(80pts).\n  You can also check out his certifications and Primary school education. %[Certifications](postback:Certifications) %[Primary School](postback:primary_school) \n You can say 'Go Back' if you don't want to see this",
+
+    "PRIMARY SCHOOL":" He first attended Nyambunwa Academy upto class 5, when he felt he was ready for a new and greater challenge.\n He moved to St. Andrew Kaggwa Boys Boarding where he finished his KCPE with a grade A ",
+
     "CERTIFICATIONS": "Besides the degree ofcourse ☺️\n He has an IBM InfoSec certification for Application security specialist using AppScan\n He also got a YALI certification on Workforce collaboration and development\n ..and also another one for strategies for people and resources, also from YALI\n Pretty cool, right? %[Yes 😃Show me more](postback:show_more)",
-    "YES 😃SHOW ME MORE": "He got a certificate from the President Awards Club at MMU - Yes he met the president of Kenya \n And has a Mentorship Certificate which i can tell you more about. %[Mentorship](postback:mentorship_club) \n or i would just tell more about his high school cetificates %[High School Certs](postback:quals)",
-    "HIGH SCHOOL CERTS": "He also participated in Brainfest Competition at KBC\n Has a certificate for being the best regionally in a geography contest\n And he was a scout ✌️ %[Go back](postback:LEARN_ABOUT_BRIAN)",
+
+    "YES 😃SHOW ME MORE": "He got a certificate from the President Awards Club at MMU - Yes he met the president of Kenya \n And has a Mentorship Certificate which i'dlove to tell you more about. %[Mentorship](postback:mentorship_club) \n or i would just tell more about his high school cetificates %[High School Certs](postback:quals)",
+
+    "HIGH SCHOOL CERTS": "He also participated in Brainfest Competition at KBC\n Has a certificate for being the best regionally in a geography contest\n And he was a scout ✌️ %[Learn About Brian](postback:learn_about_brian) %[Contact Brian](postback:contact_brian)",
+
+
+    "MENTORSHIP":"He has always been passionate about empowering the youth with valuabe skills and trainings geared to academic and life excellence.\n He is one of the leaders in a mentorship group based in Nairobi, that moves around schools mentoring the new endagered species, The boy child.\n He also provides personal tuition and coaching to students, on all matters books and life.\n Give him a call:%[Phone Number](+254726143344)",
+
     "GO BACK": "%[Learn About Brian](postback:learn_about_brian)",
     "HELLO": "Hey, I'm so glad you set BrianBot up! Do you want to tell Brian that you're talking to his bot? %[Tell Him](postback:twitter)",
 
