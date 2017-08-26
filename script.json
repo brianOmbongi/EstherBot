@@ -1,7 +1,7 @@
 {      
     "START": "Hello!\nI’m the personal assistant of Brian Ombongi, a graduate of Telecommunication and Information Engineering.\n![brian](https://raw.githubusercontent.com/brianOmbongi/EstherBot/ee5bf5c7e928ac3e4e39dfa040b1d5d7447dbc84/img/IMG-20150916-WA0016.jpg)\nWant to learn about brian or Connect to him? %[Learn About Brian](postback:learn_about_brian) %[Contact Brian](postback:contact_brian) ",
     
-    "LEARN ABOUT BRIAN": "Okay! Sweet.. I can tell you a bunch of things, what interests you?  %[Career](postback:career) %[Work experience](postback:work_experience) %[BrianFacts!](postback:brianfacts!)",
+    "LEARN ABOUT BRIAN": "Okay! Sweet.. I can tell you a bunch of things, what interests you? %[Education](postback:education)  %[Career](postback:career) %[Work experience](postback:work_experience) \n%[BrianFacts!](postback:brianfacts!)",
 
     "BRIANFACTS!":"Alright! Lets go! Remember there is nothing serious here, just random fun facts about my boss, Brian 🤗 \n..and don't forget, you can always say 'Go Back' to exit to the main menu. Cool? \n %[Ok! start already🙄](postback:start)",
     "OK! START ALREADY🙄":"Brian was never good at math in highschool, infact at some point he used to score 18%. In a story of unrelenting sacrifice, he is now an Engineer!%[WOW!..next?](postback:next)",
