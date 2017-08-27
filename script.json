@@ -23,9 +23,9 @@
 
     "":"%[](postback:)",
 
-    "CONTACT BRIAN": "He is friendly ☺️ Talk to him on \n %[Phone Number](+254726143344) %[Email](briannobare@live.com) %[Twitter](https://twitter.com/b_ombongi)",
+    "CONTACT BRIAN": "He is friendly ☺️ Talk to him on \n %[Phone Number](postback:phone_number) %[Email](briannobare@live.com) %[Twitter](https://twitter.com/b_ombongi)",
 
-    "SKILLS":"Brian has a passion for creating, and that explains how i, BrianBot was born 😀\n He is skilled in Python programming and a beginner in Java, with a keen interest in AI\n \n He also has deep interest in Cyber Security, and is familiar with several InfoSec tools and techniques of preventing Cyber attacks\n He is also well versed with both Unix and Windows operating systems \n And he is well versed in all matters Telecommunication systems installations and network links troubleshooting. \n Have a job opportunity?Internship? Dont be shy! Contact brian 👇\n %[Contact Brian](postback:contact_brian)",
+    "SKILLS":"Brian has a passion for creating, and that explains how i, BrianBot was born 😀\n He is skilled in Python programming and a beginner in Java, with a keen interest in AI\n \n He also has deep interest in Cyber Security, and is familiar with several InfoSec tools and techniques of preventing Cyber attacks\n He is also well versed with both Unix and Windows operating systems \n And he is well versed in all matters Telecommunication systems installations and network links troubleshooting. \n Have a job opportunity?Internship? Dont be shy! Contact brian %[Contact Brian](postback:contact_brian)",
 
     "WORK EXPERIENCE": "Brian has worked in three different companies as an attache: Wemps Telecoms and Unitel services which were both Telcommunication companies as well as IET, an Energy solutions company.\n Out of the box, Brian also comes with some sales experience. %[Telecom Experience](postback:telecom_experience) %[Sales](postback:sales) \n or You can go back and learn about something else: %[Learn About Brian](postback:learn_about_brian)",
 
@@ -46,7 +46,9 @@
     "HIGH SCHOOL CERTS": "He also participated in Brainfest Competition at KBC\n Has a certificate for being the best regionally in a geography contest\n And he was a scout ✌️ %[Learn About Brian](postback:learn_about_brian) %[Contact Brian](postback:contact_brian)",
 
 
-    "MENTORSHIP":"He has always been passionate about empowering the youth with valuabe skills and trainings geared to academic and life excellence.\n He is one of the leaders in a mentorship group based in Nairobi, that moves around schools mentoring the new endagered species, The boy child.\n He also provides personal tuition and coaching to students, on all matters books and life.\n Give him a call:%[Phone Number](+254726143344)",
+    "MENTORSHIP":"He has always been passionate about empowering the youth with valuabe skills and trainings geared to academic and life excellence.\n He is one of the leaders in a mentorship group based in Nairobi, that moves around schools mentoring the new endagered species, The boy child.\n He also provides personal tuition and coaching to students, on all matters books and life.\n Give him a call:%[Phone Number](postback:phone_number)",
+    "PHONE NUMBER":"+254726143344",
+
 
     "GO BACK": "%[Learn About Brian](postback:learn_about_brian)",
     "HELLO": "Hey, I'm so glad you set BrianBot up! Do you want to tell Brian that you're talking to his bot? %[Tell Him](postback:twitter)",
