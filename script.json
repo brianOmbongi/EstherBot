@@ -6,9 +6,9 @@
     "BRIAN PROFILE":"Here is what i can tell you in this section.%[Education](postback:education)  %[Work experience](postback:work_experience) %[Skills](postback:skills)",
 
 
-    "BRIANFACTS!":"Alright! Lets go! Remember there is nothing serious here, just random fun facts about my boss, Brian 🤗 \n..and don't forget, you can always say 'Go Back' to exit to the main menu. Cool? \n %[Ok! start already🙄](postback:start)",
+    "BRIANFACTS!":"Alright! Lets go! Remember there is nothing serious here, just random fun facts about my boss, Brian 🤗 \n..and don't forget, you can always say 'Go Back' to exit to the main menu. Cool? \n %[Ok! start already!!](postback:start)",
 
-    "OK! START ALREADY🙄":"Brian was never good at math in highschool, infact at some point he used to score 18%. In a story of unrelenting sacrifice, he is now an Engineer!%[WOW!..next?](postback:next)",
+    "OK! START ALREADY!!":"Brian was never good at math in highschool, infact at some point he used to score 18%. In a story of unrelenting sacrifice, he is now an Engineer!%[WOW!..next?](postback:next)",
 
     "WOW!..NEXT?":"He is a life-coach, and together with his mentor and few others, started a mentorship club in MMU-Kenya, that has amazing success stories %[Tell me another](postback:another)",
 
