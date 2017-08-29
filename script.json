@@ -26,7 +26,7 @@
     "CONTACT BRIAN": "He is friendly ☺️ Talk to him on \n %[Phone Number](postback:phone_number) %[Email](postback:email) %[Twitter](https://twitter.com/b_ombongi)",
     "EMAIL":" Send him a Mail on \n briannobare@live.com",
 
-    "SKILLS":"Brian has a passion for creating, and that explains how i, BrianBot was born 😀\n He is skilled in Python programming and a beginner in Java, with a keen interest in AI\nHe also has deep interest in Cyber Security, and is familiar with several InfoSec tools and techniques of preventing Cyber attacks\n He is also well versed with both Unix and Windows operating systems \n And he is well versed in all matters Telecommunication systems installations and network links troubleshooting. \n Have a job opportunity?Internship? Dont be shy! Contact brian %[Contact Brian](postback:contact_brian)",
+    "SKILLS":"Brian has a passion for creating, and that explains how i, BrianBot was born 😀\n He is skilled in Python programming and a beginner in Java, with a keen interest in AI\nHe also has deep interest in Cyber Security, and is familiar with several InfoSec tools and techniques of preventing Cyber attacks\n He is also well versed with both Unix and Windows operating systems \n And he is well versed in all matters Telecommunication systems installations and network links troubleshooting. \n Have a job opportunity?Internship? Dont be shy! \n Contact brian %[Contact Brian](postback:contact_brian)",
 
     "WORK EXPERIENCE": "Brian has worked in three different companies as an attache: Wemps Telecoms and Unitel services which were both Telcommunication companies as well as IET, an Energy solutions company.\n Out of the box, Brian also comes with some sales experience. %[Telecom Experience](postback:telecom_experience) %[Sales](postback:sales) \n or You can go back and learn about something else: %[Learn About Brian](postback:learn_about_brian)",
 
@@ -36,7 +36,7 @@
 
     "IET": "Was part of a 9-person team to assemble a 1250KVAR power factor corrector panel for James Finlay (Kenya) where he practiced his skills in electrical engineering. \n Was also part of a 5-person team to assemble and design a 600mm by 600mm Motor Control Centre to be used as an accessory panel for Pembe Flour Millers. \n Earned the title 'accuracy' for his keen eye for detail \n %[Contact Brian](postback:contact_brian)",
 
-    "EDUCATION":"Brian has a degree in Telecommunications and Information Engineering from Multimedia University of Kenya\n He attended The Kanga High School for his secondary education and attained grade A-(80pts).\n  You can also check out his certifications and Primary school education. %[Certifications](postback:Certifications) %[Primary School](postback:primary_school) \n You can say 'Go Back' if you don't want to see this",
+    "EDUCATION":"Brian has a degree in Telecommunications and Information Engineering from Multimedia University of Kenya\n He attended The Kanga High School for his secondary education and attained grade A-(80pts).\n  You can also check out his certifications and Primary school education. %[Certifications](postback:Certifications) %[Primary School](postback:primary_school) \n %[Work experience](postback:work_experience)",
 
     "PRIMARY SCHOOL":" He first attended Nyambunwa Academy upto class 5, when he felt he was ready for a new and greater challenge.\n He moved to St. Andrew Kaggwa Boys Boarding where he finished his KCPE with a grade A ",
 
